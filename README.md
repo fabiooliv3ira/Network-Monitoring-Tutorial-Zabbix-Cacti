@@ -48,7 +48,7 @@ To follow this guide, we used the following environment:
 
 ### Installation & Configuration
 1.  **Follow the Manual:** For a complete walkthrough with every terminal command and configuration detail, open the [Report & Step By Step Configuration Guide](Report%20%26%20Step%20By%20Step%20Configuration.pdf).
-2.  **Automated Cacti Setup:** You can use the provided [ScriptCacti](ScriptCacti) shell script to automate the installation process on a Debian 12 environment.
+2.  **Automated Cacti Setup:** You can use the provided [ScriptCacti](ScriptCacti.sh) shell script to automate the installation process on a Debian 12 environment.
 3.  **Project Context:** The original academic requirements can be found in the [Objectives](Objectives.pdf) file.
 
 ### Network Topology
